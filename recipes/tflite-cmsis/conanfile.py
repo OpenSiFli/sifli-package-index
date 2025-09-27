@@ -10,7 +10,7 @@ class TfliteCmsisRecipe(ConanFile):
     # Optional metadata
     license = "Apache 2.0"
     author = "SiFli"
-    url = "https://github.com/OpenSiFli/tflite-cmsis"
+    url = "https://github.com/OpenSiFli/sifli-package-index"
     description = "<Description of hello package here>"
     topics = ("tinyml", "tflm", "ai")
 
