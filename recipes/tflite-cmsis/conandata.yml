@@ -1,0 +1,4 @@
+sources:
+  "0.1.0":
+    url: "https://github.com/OpenSiFli/tflite-cmsis/archive/refs/tags/v0.1.0.zip"
+    sha256: "ab4463fa12ea5d5fb04d5a68c8f25daf4bbf760fdc3d17ab57009e41c6f81e65"
